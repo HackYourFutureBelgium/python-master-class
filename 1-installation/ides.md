@@ -2,8 +2,6 @@
 
 Python offers a range of Integrated Development Environments, or IDEs, to facilitate coding, debugging, and managing Python projects. These IDEs provide different features and functionalities to suit various developer preferences. This guide will introduce you to some of the popular Python IDEs.
 
-## Table of Contents
-
 ## What is an IDE?
 
 An Integrated Development Environment (IDE) is a software application that provides a comprehensive set of tools for software development. These tools typically include a code editor, debugger, build automation tools, and often a terminal.
