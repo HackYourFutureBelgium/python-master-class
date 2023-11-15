@@ -1,4 +1,4 @@
-# A variable : is a container to store value
+# A variable : is a container to store values
 
 first_name = 'John'
 

@@ -88,12 +88,14 @@ list1 = [1, 2, 3]
 list2 = [1, 2, 3]
 list3 = list1
 
+is_list1_same_as_list2 = list1 is list2  # Identity operator "is"
+is_list1_same_as_list3 = list1 is list3
+
 print("\nIdentity Operators:")
 print("Is list1 the same as list2?", is_list1_same_as_list2)
 print("Is list1 the same as list3?", is_list1_same_as_list3)
 
-is_list1_same_as_list2 = list1 is list2  # Identity operator "is"
-is_list1_same_as_list3 = list1 is list3
+
 
 # 7. Membership Operators
 fruits = ["apple", "banana", "cherry"]
@@ -106,7 +108,7 @@ print("\nMembership Operators:")
 print("Is 'apple' in fruits?", is_apple_in_fruits)
 print("Is 'mango' not in fruits?", is_mango_not_in_fruits)
 
-# Expressions
+# Expressions evaluate to a value
 expression1 = (x + y) * (x - y)
 expression2 = x ** 2 - y ** 2
 
