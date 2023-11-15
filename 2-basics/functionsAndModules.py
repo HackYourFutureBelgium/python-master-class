@@ -1,7 +1,7 @@
 # Functions and Modules 
 
 # 1. Functions
-# A function is a block of  reusable code that is used to perform a specific task. 
+# A function is a block of reusable code that is used to perform a specific task. 
 
 # Function definition
 def greet(name):
@@ -11,9 +11,9 @@ def greet(name):
 greet("John")
 
 # 2. Modules
-# each file considered a module, modules helps to organize code into different files
+# Each file considered a module, modules helps to organize code into different files
 
-# import the module
+# Import the module
 import myModule 
 
 # Using functions from the module
