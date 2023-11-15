@@ -1,6 +1,7 @@
 # Basics
 
-- [What is Python](./what-is-python.md)
-- [Variables and data types](./data-types.py)
-- [Operators and expressions](./operators-and-expressions.py)
-- [Control flow](./control-flow.py)
+- [What is Python](./whatIsPython.md)
+- [Variables and data types](./dataTypes.py)
+- [Operators and expressions](./operatorsAndExpressions.py)
+- [Control flow](./controlFlow.py)
+- [Functions and modules](./functionsAndModules.py)
