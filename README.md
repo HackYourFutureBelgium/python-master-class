@@ -6,73 +6,73 @@ Welcome to the Python Master Class! This comprehensive guide is designed to help
 
 ## Prerequisites
 
-- A basic understanding of programming concepts will be helpful, but this class is suitable for beginners.
-- Python 3.x installed on your computer.
+-   A basic understanding of programming concepts will be helpful, but this class is suitable for beginners.
+-   Python 3.x installed on your computer.
 
-- [Learning Objectives](#learning-objectives): what you can expect to learn from
-  studying this material
-- [Suggested Study](./suggested-study.md): Helpful links for this module, useful
-  but not required.
+-   [Learning Objectives](#learning-objectives): what you can expect to learn from
+    studying this material
+-   [Suggested Study](./suggested-study.md): Helpful links for this module, useful
+    but not required.
 
 ## Learning objectives
 
 1. **Getting Started with Python**
 
-   - Python Installation
-   - Using Python IDEs
-   - Your First Python Program
+    - Python Installation
+    - Using Python IDEs
+    - Your First Python Program
 
 2. **Python Basics**
 
-   - Variables and Data Types
-   - Operators and Expressions
-   - Control Flow (if, else, while, for)
-   - Functions and Modules
-   - Exception Handling
+    - Variables and Data Types
+    - Operators and Expressions
+    - Control Flow (if, else, while, for)
+    - Functions and Modules
+    - Exception Handling
 
 3. **Data Structures**
 
-   - Lists, Tuples, and Sets
-   - Dictionaries
-   - List Comprehensions
-   - Working with Strings
+    - Lists, Tuples, and Sets
+    - Dictionaries
+    - List Comprehensions
+    - Working with Strings
 
 4. **Object-Oriented Programming (OOP) in Python**
 
-   - Classes and Objects
-   - Inheritance and Polymorphism
-   - Encapsulation and Abstraction
-   - Special Methods (Magic Methods)
+    - Classes and Objects
+    - Inheritance and Polymorphism
+    - Encapsulation and Abstraction
+    - Special Methods (Magic Methods)
 
 5. **File Handling**
 
-   - Reading and Writing Files
-   - Working with CSV and JSON
-   - Error Handling in File Operations
+    - Reading and Writing Files
+    - Working with CSV and JSON
+    - Error Handling in File Operations
 
 6. **Python Libraries**
 
-   - NumPy for Scientific Computing
-   - Pandas for Data Analysis
-   - Matplotlib for Data Visualization
+    - NumPy for Scientific Computing
+    - Pandas for Data Analysis
+    - Matplotlib for Data Visualization
 
 7. **Working with Databases**
 
-   - Connecting to Databases
-   - Executing SQL Queries
-   - ORM (Object-Relational Mapping) with SQLAlchemy
+    - Connecting to Databases
+    - Executing SQL Queries
+    - ORM (Object-Relational Mapping) with SQLAlchemy
 
 8. **Web Development with Python**
 
-   - Introduction to Web Frameworks (e.g., Flask, Django)
-   - Creating Web Applications
-   - RESTful APIs
+    - Introduction to Web Frameworks (e.g., Flask, Django)
+    - Creating Web Applications
+    - RESTful APIs
 
 9. **Concurrency and Multi-Threading**
 
-   - Understanding Concurrency
-   - Python's Threading and Multiprocessing
-   - Asynchronous Programming with Asyncio
+    - Understanding Concurrency
+    - Python's Threading and Multiprocessing
+    - Asynchronous Programming with Asyncio
 
 10. **Testing and Debugging**
 
