@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Python is a versatile and powerful general-purpose programming language renowned for its interpretive nature, interactivity, object-oriented paradigm, and high-level functionality. It stands out with its dynamic typing and efficient garbage collection mechanisms.
+Python is a high-level, interpreted, interactive and object-oriented scripting language. Python is designed to be highly readable. It uses English keywords frequently where as other languages use punctuation, and it has fewer syntactical constructions than other languages.
 
 ## Key Features
 
