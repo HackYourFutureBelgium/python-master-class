@@ -6,9 +6,9 @@ Python and C++ stand as two prominent programming languages, each with its uniqu
 
 ## Compiled vs Interpreted
 
--   **C++: Compiled**
+- **C++: Compiled**
 
-    -   C++ is a compiler-based language.
+    - C++ is a compiler-based language.
     -   The entire code is translated into machine language specific to the operating system and processor architecture.
 
 -   **Python: Interpreted**

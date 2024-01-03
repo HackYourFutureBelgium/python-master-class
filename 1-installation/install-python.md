@@ -33,6 +33,7 @@ This comprehensive guide will walk you through the steps to install Python on th
 1. Open a terminal window.
 
 2. Run the following command to install Homebrew:
+
     ```bash
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     ```
@@ -58,6 +59,7 @@ This comprehensive guide will walk you through the steps to install Python on th
 1. Open a terminal.
 
 2. Run the following commands to update the package lists:
+
     ```bash
     sudo apt update
     sudo apt upgrade
