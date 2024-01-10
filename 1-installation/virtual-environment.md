@@ -10,10 +10,9 @@ A virtual environment is an isolated Python environment that allows you to insta
 
 ## Why Use Virtual Environments?
 
--   **Isolation:** Prevent conflicts between project dependencies by keeping them isolated in dedicated environments.
--   **Dependency Management:** Easily manage and reproduce the dependencies required for a project.
-
--   **Version Compatibility:** Ensure compatibility with specific Python versions for different projects.
+- **Isolation:** Prevent conflicts between project dependencies by keeping them isolated in dedicated environments.
+- **Dependency Management:** Easily manage and reproduce the dependencies required for a project.
+- **Version Compatibility:** Ensure compatibility with specific Python versions for different projects.
 
 ## Creating Virtual Environments
 
@@ -28,6 +27,7 @@ A virtual environment is an isolated Python environment that allows you to insta
     ```
 
 3. Navigate to your project directory and create a virtual environment:
+
     ```bash
     virtualenv venv
     ```
@@ -43,34 +43,37 @@ A virtual environment is an isolated Python environment that allows you to insta
     ```
 
 3. Navigate to your project directory and create a virtual environment:
-    ```bash
-    virtualenv venv
-    ```
+
+```bash
+virtualenv venv
+```
 
 ## Activating and Deactivating Virtual Environments
 
 ### macOS and Linux
 
--   Activate:
+- Activate:
 
     ```bash
     source venv/bin/activate
     ```
 
--   Deactivate:
+- Deactivate:
+
     ```bash
     deactivate
     ```
 
 ### Windows
 
--   Activate:
+- Activate:
 
     ```bash
     .\venv\Scripts\activate
     ```
 
--   Deactivate:
+- Deactivate:
+
     ```bash
     deactivate
     ```
@@ -85,13 +88,14 @@ pip install <package_name>
 
 ## Common Commands
 
--   **Freeze dependencies to a requirements.txt file:**
+- **Freeze dependencies to a requirements.txt file:**
 
     ```bash
     pip freeze > requirements.txt
     ```
 
--   **Install dependencies from requirements.txt:**
+- **Install dependencies from requirements.txt:**
+
     ```bash
     pip install -r requirements.txt
     ```

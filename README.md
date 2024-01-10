@@ -6,12 +6,12 @@ Welcome to the Python Master Class! This comprehensive guide is designed to help
 
 ## Prerequisites
 
--   A basic understanding of programming concepts will be helpful, but this class is suitable for beginners.
--   Python 3.x installed on your computer.
+- A basic understanding of programming concepts will be helpful, but this class is suitable for beginners.
+- Python 3.x installed on your computer.
 
--   [Learning Objectives](#learning-objectives): what you can expect to learn from
+- [Learning Objectives](#learning-objectives): what you can expect to learn from
     studying this material
--   [Suggested Study](./suggested-study.md): Helpful links for this module, useful
+- [Suggested Study](./suggested-study.md): Helpful links for this module, useful
     but not required.
 
 ## Learning objectives
